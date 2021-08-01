@@ -1,4 +1,4 @@
-Date,State,2019 Estimated Population,"Deaths Per 100,000",Total Deaths from Covid
+Date,State,est_pop,percapita_d,total_d
 2020-04-30T12:00:00Z,Alabama,4903185,5.547414589,272
 2020-05-31T12:00:00Z,Alabama,4903185,12.848791143,630
 2020-06-30T12:00:00Z,Alabama,4903185,19.375161247,950
